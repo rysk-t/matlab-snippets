@@ -1,4 +1,4 @@
-yas-matlab
+Matlab-snippets
 ==========
 snippet files for matlab in yasnippet (emacslisp)
 
